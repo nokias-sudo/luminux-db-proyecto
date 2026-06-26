@@ -1,1 +1,1 @@
-# luminux-db-proyecto
+# primera adminsitración de base de datos
